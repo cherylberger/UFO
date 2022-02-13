@@ -29,13 +29,22 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 ##### Refactor the lesson code to create the additional filters.  Add a new class, list-group-item and include the labels for each filter criteria: Date, City, State, Country, Shape
 ![image](https://user-images.githubusercontent.com/94234511/153740793-28c96fbf-ae7d-4da5-a346-c787d3cc0ab1.png)
+Update the HTML file to add the script for the data files to the HTML file after the last <div> 
+![image](https://user-images.githubusercontent.com/94234511/153777332-3175bf63-c7d5-48fe-8c2c-d6e3ff3861a0.png)
 
 #### To perform a search
 There is a description of how to perform a search, with images. 
 
 ##### Open the index.html file in web browser
+ ![image](https://user-images.githubusercontent.com/94234511/153777426-45565fc5-6072-4b95-bf22-05c8ea0b4e98.png) 
+
 ##### Select a filter
+ ![image](https://user-images.githubusercontent.com/94234511/153777456-fafcdd34-444f-443f-aacf-c1b39a732878.png)
+ 
 ##### Press Enter
+  Input the filter criteria and press Enter on the keyboard
+  ![image](https://user-images.githubusercontent.com/94234511/153777544-80091cb2-fd27-46b9-8ab8-b2a0e91a31ae.png)
+
 ##### Show dataTable
 
 #### For example, 
@@ -48,9 +57,12 @@ Filter UFO sightings on multiple criteria
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 #### Drawback of this webpage
-
+The reader is expected to know something about the key value pairs and would need access to the data file or prior knowledge of the contents. 
+  
 #### Additional recommendations for further development
 
 ##### Recommendation #1
-
+Add a clear filters button
+  
 ##### Recommendation #2
+Add drop-down menus to allow the user input to match the available data
