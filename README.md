@@ -53,10 +53,10 @@ There is a description of how to perform a search, with images.
  
 
 ### Summary
-Dana's new webpage now allows the user to filter on other criteria to perform a more focused analysis of specific areas or UFO shapes associated with the reported sightings for the duration of time captured in data.js. 
+
+#### Summary of UFO Fact Finder WebPage
  
-#### Drawback of this webpage
-One of the drawbacks of this webpage is that tThe reader is expected to know something about the key value pairs and would need access to the data file or prior knowledge of the contents. 
+Dana's new webpage now allows the user to filter on other criteria to perform a more focused analysis of specific areas or UFO shapes associated with the reported sightings for the duration of time captured in data.js. One of the drawbacks of this webpage is that the reader is expected to know something about the key:value pairs and would need access to the data file or prior knowledge of the contents. 
   
 #### Additional recommendations for further development
 
