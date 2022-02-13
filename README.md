@@ -36,14 +36,13 @@ Update the HTML file to add the script for the data files to the HTML file after
 There is a description of how to perform a search, with images. 
 
 ##### Open the index.html file in web browser
- ![image](https://user-images.githubusercontent.com/94234511/153777426-45565fc5-6072-4b95-bf22-05c8ea0b4e98.png) 
+![image](https://user-images.githubusercontent.com/94234511/153778562-e4c154cc-c277-41b8-b94f-9cf006bf757d.png)
 
-##### Select a filter
- ![image](https://user-images.githubusercontent.com/94234511/153777456-fafcdd34-444f-443f-aacf-c1b39a732878.png)
+##### Select a date filter and input the filter criteria in the box
+![image](https://user-images.githubusercontent.com/94234511/153778629-d817e0a6-bed7-4830-803f-21b5990da843.png)
  
-##### Press Enter
-  Input the filter criteria and press Enter on the keyboard
-  ![image](https://user-images.githubusercontent.com/94234511/153777544-80091cb2-fd27-46b9-8ab8-b2a0e91a31ae.png)
+##### Press Enter to see the filtered results
+
 
 ##### Show dataTable
 
