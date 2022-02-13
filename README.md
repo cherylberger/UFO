@@ -15,13 +15,13 @@ Describe to Dana how someone might use the new webpage by walking her through th
 #### Create the JavaScript file to set-up the webpage and filter the data on user input. 
 
 ##### Adopt the code from the lesson to add the data file as a variable and locate the table referneces.  Then create a function to build a data table containing all objects in the data file, appending each row with the new values. 
-![image](https://user-images.githubusercontent.com/94234511/153740532-c9cf27ee-c291-4621-8e2f-8498a5f5c4a2.png)
+![image](https://user-images.githubusercontent.com/94234511/153777106-7fd758d6-317f-456b-b7f9-4301a6094df9.png)
 
 ##### Attach an event listener to listen for changes to each filter based on input from the user
-![image](https://user-images.githubusercontent.com/94234511/153740554-c3df9775-6873-44da-a918-9e167c1b22e8.png)
+![image](https://user-images.githubusercontent.com/94234511/153777136-65a3e594-1d79-44ca-b831-d71cbdd80620.png)
 
 ##### Using the new filter update the filters and rebuild the table using the new data
-![image](https://user-images.githubusercontent.com/94234511/153740575-a485c2d7-46fc-4c5d-8705-0aa2c6b752a9.png)
+![image](https://user-images.githubusercontent.com/94234511/153777167-218f298b-b1a7-4931-b655-6214d8cf9d98.png)
 
 #### Create the HTML file to display the webpage and datatable for the user 
 ##### Setup the webpage features, the title was changed from "Document" to "UFO Fact Finder"
