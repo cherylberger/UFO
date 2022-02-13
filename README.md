@@ -3,7 +3,7 @@
 ## Cheryl Berger
 
 ### Overview
-Dana's UFO Fact Finder webpage and interactive data table are working well.  Given all the available data, she would like to expand the functionality of the webpage by adding  additional criteria to filter the data.  Dana would like the user to be able to filter on any combination of 5 fields: date, city, state, country, and shape of the UFO sighted. To perform the analysis, the following resources were used:
+Dana's UFO Fact Finder webpage and interactive data table are working well. Given all the available data, she would like to expand the functionality of the webpage by adding  additional criteria to filter the data.  Dana would like the user to be able to filter on any combination of 5 fields: date, city, state, country, and shape of the UFO sighted. To perform the analysis, the following resources were used:
 
 Files: data.js, app.js and index.html
 DataTools: JavaScript, ECMScript, Python, and HTML
@@ -43,25 +43,26 @@ There is a description of how to perform a search, with images.
  
 ##### Press Enter to see the filtered results
 
-
-##### Show dataTable
-
-#### For example, 
-Filter UFO sightings on multiple criteria
+ 
+#### Filter UFO sightings on multiple criteria
+ 
 ##### Select 3 filters
-##### Press Enter
-##### Show dataTable
+![image](https://user-images.githubusercontent.com/94234511/153779884-ddfe91b6-f90c-4d6d-8565-64e485518db7.png)
+
+##### Press Enter to see the filtered results
+ 
 
 ### Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
+Dana's new webpage now allows the user to filter on other criteria to perform a more focused analysis of specific areas or UFO shapes associated with the reported sightings for the duration of time captured in data.js. 
+ 
 #### Drawback of this webpage
-The reader is expected to know something about the key value pairs and would need access to the data file or prior knowledge of the contents. 
+One of the drawbacks of this webpage is that tThe reader is expected to know something about the key value pairs and would need access to the data file or prior knowledge of the contents. 
   
 #### Additional recommendations for further development
 
 ##### Recommendation #1
-Add a clear filters button
-  
+It would be more clear to the user if the placeholder field were not pre-populated as it is not immediately obvious that these are fillable fields.  Adding a "reset" or "clear filters" button may encourage more queries by the user if it is clear how reset the inputs. 
+ 
 ##### Recommendation #2
-Add drop-down menus to allow the user input to match the available data
+The information contained in the datafile may not be available to the user. Adding drop-down menus for each field may allow the user a quick method to identify available inputs to filter the data.
+  
