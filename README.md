@@ -33,8 +33,16 @@ Describe to Dana how someone might use the new webpage by walking her through th
 #### To perform a search
 There is a description of how to perform a search, with images. 
 
+##### Open the index.html file in web browser
+##### Select a filter
+##### Press Enter
+##### Show dataTable
+
 #### For example, 
 Filter UFO sightings on multiple criteria
+##### Select 3 filters
+##### Press Enter
+##### Show dataTable
 
 ### Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
