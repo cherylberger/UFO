@@ -3,8 +3,11 @@
 ## Cheryl Berger
 
 ### Overview
-Explain the purpose of this analysis.
-Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+Dana's UFO Fact Finder webpage and interactive data table are working well.  Given all the available data, she would like to expand the functionality of the webpage by adding  additional criteria to filter the data.  Dana would like the user to be able to filter on any combination of 5 fields: date, city, state, country, and shape of the UFO sighted. To perform the analysis, the following resources were used:
+
+Files: data.js, app.js and index.html
+DataTools: JavaScript, ECMScript, Python, and HTML
+Software: Visual Studio Code v1.64.0
 
 ### Results
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
